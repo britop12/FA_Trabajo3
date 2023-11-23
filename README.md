@@ -11,4 +11,4 @@ Este repositorio contiene un proyecto de aprendizaje automático dedicado a la c
 * Marcos David Carrillo Builes
 * Yeferson Steven Aguilar Alvarado
 
-**Reporte Técnico:**
+**Reporte Técnico:** https://deepnote.com/publish/Fundamentos-de-Analitica-Trabajo-3-acbe996f-de37-47bf-aaf0-2f4b2527fe54
